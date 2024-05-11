@@ -46,5 +46,5 @@ cd demo
 bash run_demo.sh
 ```
 
-Reference:
-
+Reference:  
+Inter3D: Capture of TAD Reorganization Endows Variant Patterns of Gene Transcription. Genomics, Proteomics & Bioinformatics. 2024 (online)
